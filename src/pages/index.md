@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
-title: Front Sight Marketing
-heading: Digital Marketing for Your Business
+title: Digital Marketing for Your Business
+heading: Create a better online presence for your business.
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
@@ -68,7 +68,7 @@ testimonials:
       Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
-meta_title: Home | Gatsby Starter Business
+meta_title: Home | Front Sight Marketing
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
