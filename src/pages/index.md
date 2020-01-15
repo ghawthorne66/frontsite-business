@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: Front Sight Marketing
-heading: Lorem ipsum dolor sit amet
+heading: Digital Marketing for Your Business
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
   adipisci velit...
